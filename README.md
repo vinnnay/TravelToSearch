@@ -1,4 +1,4 @@
-# TraveltoSearch — iOS Expo App
+# TraveltoSearch — iOS App
 
 A React Native + Expo mobile app with six screens and a built-in offline catalog of attractions in Washington DC, New York, Paris, Tokyo, London, and Rome.
 
