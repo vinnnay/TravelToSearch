@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "TraveltoSearch",
+    "slug": "traveltosearch",
+    "scheme": "traveltosearch",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {"supportsTablet": true, "bundleIdentifier": "com.example.traveltosearch"},
+    "plugins": ["expo-router"],
+    "experiments": {"typedRoutes": false}
+  }
+}
