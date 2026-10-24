@@ -1,0 +1,222 @@
+<svg width="1179" height="2556" viewBox="0 0 1179 2556" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="589.5" y1="0" x2="589.5" y2="780" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4DB6D9"/>
+      <stop offset="0.38" stop-color="#93CCD9"/>
+      <stop offset="0.74" stop-color="#F5B388"/>
+      <stop offset="1" stop-color="#E6A57C"/>
+    </linearGradient>
+    <linearGradient id="searchBtn" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4CC7C0"/>
+      <stop offset="1" stop-color="#2AA7AE"/>
+    </linearGradient>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F8F9FA"/>
+      <stop offset="1" stop-color="#EDF2F4"/>
+    </linearGradient>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#000000" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+
+  <rect width="1179" height="2556" fill="#F3F0EF"/>
+
+  <g filter="url(#shadow)">
+    <rect x="70" y="74" width="1039" height="2408" rx="104" fill="#1C1C1E"/>
+    <rect x="94" y="98" width="991" height="2360" rx="88" fill="#F4F4F4"/>
+  </g>
+
+  <g>
+    <rect x="170" y="116" width="839" height="74" rx="37" fill="#1B1B1B"/>
+    <circle cx="476" cy="153" r="13" fill="#2B2B2B"/>
+    <circle cx="700" cy="153" r="7" fill="#FCFCFC" opacity="0.9"/>
+    <circle cx="766" cy="152" r="24" fill="#F9F9F9" opacity="0.15"/>
+    <path d="M892 140h42v25h-42z" fill="#F1F1F1" opacity="0.3"/>
+    <path d="M945 145h40v18h-40z" fill="#F1F1F1" opacity="0.3"/>
+  </g>
+
+  <g>
+    <rect x="94" y="98" width="991" height="500" rx="88" fill="url(#sky)"/>
+    <path d="M94 448C188 422 258 385 325 360C420 323 592 300 760 338C839 354 909 392 991 450V458H94V448Z" fill="#447B59" opacity="0.85"/>
+
+    <g opacity="0.8">
+      <rect x="647" y="150" width="24" height="240" fill="#A46A46"/>
+      <rect x="636" y="172" width="44" height="20" fill="#D8C7B8"/>
+      <path d="M610 182L723 182L704 248H629L610 182Z" fill="#E8D5C4"/>
+      <path d="M621 197L706 197" stroke="#C7B29E" stroke-width="8" stroke-linecap="round"/>
+      <path d="M634 214L693 214" stroke="#C7B29E" stroke-width="8" stroke-linecap="round"/>
+      <path d="M612 182L641 130h38l31 52" stroke="#D9C6B3" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M624 120H713L690 180H646L624 120Z" fill="#D8C6AC"/>
+    </g>
+
+    <g>
+      <rect x="130" y="182" width="50" height="50" rx="12" fill="#2DB6B9" opacity="0.95"/>
+      <path d="M145 205h20M155 195v20M151 212l8-8m-8 0l8 8" stroke="#F6F6F6" stroke-width="4" stroke-linecap="round"/>
+      <text x="219" y="225" fill="#F2F7FA" font-family="Arial, sans-serif" font-size="62" font-weight="700">ExploreGo</text>
+      <text x="222" y="277" fill="#EAF6F9" opacity="0.9" font-family="Arial, sans-serif" font-size="28" font-weight="600" letter-spacing="4">TRAVEL PLANNER</text>
+    </g>
+
+    <g>
+      <text x="154" y="356" fill="#F3F7F8" font-family="Arial, sans-serif" font-size="92" font-weight="700">Where to next?</text>
+      <text x="150" y="433" fill="#EEF4F8" font-family="Arial, sans-serif" font-size="38" font-weight="500">Discover. Explore. Check it off.</text>
+      <path d="M908 307L940 336L907 364" stroke="#F7F7F7" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M914 337H1026" stroke="#F7F7F7" stroke-width="10" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <g>
+    <rect x="158" y="480" width="863" height="135" rx="38" fill="#F6F7F7" filter="url(#shadow)"/>
+    <circle cx="247" cy="548" r="40" fill="transparent" stroke="#2D2D2E" stroke-width="8"/>
+    <path d="M276 578L334 636" stroke="#2D2D2E" stroke-width="8" stroke-linecap="round"/>
+    <text x="330" y="563" font-family="Arial, sans-serif" font-size="42" fill="#1E2130" font-weight="600">Washington, DC</text>
+    <circle cx="922" cy="548" r="32" fill="transparent" stroke="#4B4C4E" stroke-width="7"/>
+    <path d="M911 536L934 559M934 536L911 559" stroke="#4B4C4E" stroke-width="7" stroke-linecap="round"/>
+    <rect x="772" y="510" width="190" height="76" rx="38" fill="url(#searchBtn)"/>
+    <text x="845" y="562" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" fill="#F9FFFE" font-weight="700">Explore</text>
+  </g>
+
+  <g>
+    <rect x="170" y="632" width="839" height="197" rx="30" fill="url(#cardBg)"/>
+    <text x="227" y="693" fill="#1E1E1E" font-family="Arial, sans-serif" font-size="32" font-weight="700" letter-spacing="3">YOUR DESTINATION</text>
+    <text x="224" y="785" fill="#0F1720" font-family="Arial, sans-serif" font-size="62" font-weight="700">Washington, DC</text>
+    <text x="224" y="842" fill="#505E69" font-family="Arial, sans-serif" font-size="30" font-weight="500">7 attractions • 2 visited</text>
+
+    <rect x="770" y="714" width="180" height="86" rx="22" fill="#C8F1EE"/>
+    <text x="860" y="770" text-anchor="middle" font-family="Arial, sans-serif" font-size="54" font-weight="700" fill="#1D7A7D">29%</text>
+    <text x="860" y="818" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" fill="#2D5C60" font-weight="600">Visited</text>
+
+    <rect x="223" y="850" width="590" height="18" rx="9" fill="#D6E2E4"/>
+    <rect x="223" y="850" width="360" height="18" rx="9" fill="#26B4B8"/>
+  </g>
+
+  <g>
+    <rect x="170" y="845" width="839" height="102" rx="18" fill="#F5F5F5"/>
+    <rect x="196" y="875" width="110" height="46" rx="23" fill="#27B3B5"/>
+    <text x="251" y="907" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" fill="#FDFEFE" font-weight="700">All</text>
+    <g font-family="Arial, sans-serif" font-size="28" fill="#2B3742" font-weight="600">
+      <rect x="336" y="875" width="150" height="46" rx="23" fill="#E8EBED"/>
+      <text x="411" y="908" text-anchor="middle">Landmarks</text>
+      <rect x="520" y="875" width="150" height="46" rx="23" fill="#E8EBED"/>
+      <text x="595" y="908" text-anchor="middle">Museums</text>
+      <rect x="704" y="875" width="152" height="46" rx="23" fill="#E8EBED"/>
+      <text x="780" y="908" text-anchor="middle">Nature</text>
+      <rect x="890" y="875" width="88" height="46" rx="23" fill="#E8EBED"/>
+      <text x="934" y="908" text-anchor="middle">Food</text>
+    </g>
+  </g>
+
+  <g>
+    <text x="204" y="1028" fill="#1E2020" font-family="Arial, sans-serif" font-size="54" font-weight="700">Places to explore</text>
+    <g>
+      <path d="M930 1007L946 1022L970 994" stroke="#1F2930" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M907 1015H978" stroke="#1F2930" stroke-width="6" stroke-linecap="round"/>
+    </g>
+    <text x="881" y="1030" fill="#1F2930" font-family="Arial, sans-serif" font-size="28" font-weight="700">Top picks</text>
+  </g>
+
+  <g>
+    <rect x="190" y="1079" width="312" height="173" rx="18" fill="#D8DDE0"/>
+    <path d="M190 1239H502V1255C502 1270.46 489.46 1283 474 1283H218C202.54 1283 190 1270.46 190 1255V1239Z" fill="#F2F4F5"/>
+    <rect x="190" y="1079" width="312" height="160" fill="url(#sky)"/>
+    <path d="M202 1184C245 1170 265 1129 316 1135C375 1142 392 1195 432 1196C465 1197 485 1169 495 1157V1239H202V1184Z" fill="#E9B064" opacity="0.7"/>
+    <path d="M190 1197C228 1188 277 1180 318 1187C372 1195 397 1170 469 1172V1239H190V1197Z" fill="#6E4C32" opacity="0.70"/>
+    <path d="M250 1164L302 1215H198L250 1164Z" fill="#C6A880" opacity="0.45"/>
+    <path d="M306 1110h40v53h-40z" fill="#D7D2C8" opacity="0.7"/>
+  </g>
+
+  <g>
+    <text x="541" y="1143" font-family="Arial, sans-serif" font-size="52" font-weight="700" fill="#111111">Lincoln Memorial</text>
+    <circle cx="548" cy="1194" r="10" fill="#515C66"/>
+    <path d="M552 1193L552 1180M552 1205V1197" stroke="#515C66" stroke-width="4" stroke-linecap="round"/>
+    <text x="573" y="1204" font-family="Arial, sans-serif" font-size="31" fill="#495462" font-weight="600">Landmark</text>
+    <text x="542" y="1275" font-family="Arial, sans-serif" font-size="32" fill="#48505A">Monumental marble memorial</text>
+    <text x="542" y="1315" font-family="Arial, sans-serif" font-size="32" fill="#48505A">overlooking the Reflecting Pool.</text>
+    <circle cx="542" cy="1351" r="11" fill="#5F6972"/>
+    <path d="M536 1353h12M542 1347v12" stroke="#F0F4F5" stroke-width="3" stroke-linecap="round"/>
+    <text x="565" y="1361" font-family="Arial, sans-serif" font-size="28" fill="#475662">Free</text>
+    <circle cx="770" cy="1351" r="11" fill="#5F6972"/>
+    <path d="M762 1345h16v12h-16z" stroke="#F0F4F5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="794" y="1361" font-family="Arial, sans-serif" font-size="28" fill="#475662">1 hour</text>
+    <circle cx="939" cy="1183" r="31" fill="#2DB7B8"/>
+    <path d="M924 1184L934 1194L954 1174" stroke="#F6F7F7" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g>
+    <rect x="190" y="1325" width="312" height="173" rx="18" fill="#D9E3E6"/>
+    <rect x="190" y="1325" width="312" height="173" fill="#B7DDF2"/>
+    <path d="M198 1453H498V1495C498 1507.15 488.15 1517 476 1517H220C207.85 1517 198 1507.15 198 1495V1453Z" fill="#F3F7F7"/>
+    <path d="M202 1413L235 1360L282 1412L322 1344L385 1414L436 1378L491 1441V1453H202V1413Z" fill="#F2F8FD" opacity="0.8"/>
+    <path d="M230 1412H302L321 1463H210L230 1412Z" fill="#79A6C1" opacity="0.95"/>
+    <path d="M340 1365L380 1414L430 1365" stroke="#DCE9F5" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g>
+    <text x="541" y="1390" font-family="Arial, sans-serif" font-size="52" font-weight="700" fill="#111111">Washington Monument</text>
+    <circle cx="548" cy="1444" r="10" fill="#515C66"/>
+    <path d="M552 1444V1431M552 1458V1450" stroke="#515C66" stroke-width="4" stroke-linecap="round"/>
+    <text x="573" y="1456" font-family="Arial, sans-serif" font-size="31" fill="#495462" font-weight="600">Landmark</text>
+    <text x="542" y="1527" font-family="Arial, sans-serif" font-size="32" fill="#48505A">Iconic obelisk with panoramic</text>
+    <text x="542" y="1567" font-family="Arial, sans-serif" font-size="32" fill="#48505A">views of the city.</text>
+    <circle cx="542" cy="1605" r="11" fill="#5F6972"/>
+    <path d="M536 1606h12M542 1599v12" stroke="#F0F4F5" stroke-width="3" stroke-linecap="round"/>
+    <text x="565" y="1615" font-family="Arial, sans-serif" font-size="28" fill="#475662">Ticketed</text>
+    <circle cx="770" cy="1605" r="11" fill="#5F6972"/>
+    <path d="M762 1599h16v12h-16z" stroke="#F0F4F5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="794" y="1615" font-family="Arial, sans-serif" font-size="28" fill="#475662">1 hour</text>
+    <circle cx="939" cy="1442" r="31" fill="#E5E9EC" stroke="#8B949A" stroke-width="6"/>
+  </g>
+
+  <g>
+    <rect x="190" y="1568" width="312" height="173" rx="18" fill="#D9E3E6"/>
+    <rect x="190" y="1568" width="312" height="173" fill="#CBBA8D"/>
+    <path d="M198 1663H498V1718C498 1735.67 483.67 1750 466 1750H230C212.33 1750 198 1735.67 198 1718V1663Z" fill="#F0F2F2"/>
+    <path d="M220 1648L260 1595H436L470 1648H220Z" fill="#E7D0A2" opacity="0.6"/>
+    <path d="M250 1630V1718H444V1630H250Z" fill="#E5E0D8" opacity="0.62"/>
+    <path d="M280 1630H316V1718H280V1630Z" fill="#D8CBB1" opacity="0.8"/>
+    <path d="M352 1630H387V1718H352V1630Z" fill="#D8CBB1" opacity="0.8"/>
+  </g>
+
+  <g>
+    <text x="541" y="1634" font-family="Arial, sans-serif" font-size="52" font-weight="700" fill="#111111">National Air and Space Museum</text>
+    <circle cx="548" cy="1688" r="10" fill="#515C66"/>
+    <path d="M552 1688V1674M552 1702V1694" stroke="#515C66" stroke-width="4" stroke-linecap="round"/>
+    <text x="573" y="1698" font-family="Arial, sans-serif" font-size="31" fill="#495462" font-weight="600">Museum</text>
+    <text x="542" y="1768" font-family="Arial, sans-serif" font-size="32" fill="#48505A">Explore aircraft, spacecraft and</text>
+    <text x="542" y="1808" font-family="Arial, sans-serif" font-size="32" fill="#48505A">the story of flight.</text>
+    <circle cx="542" cy="1845" r="11" fill="#5F6972"/>
+    <path d="M536 1847h12M542 1839v12" stroke="#F0F4F5" stroke-width="3" stroke-linecap="round"/>
+    <text x="565" y="1855" font-family="Arial, sans-serif" font-size="28" fill="#475662">Free</text>
+    <circle cx="770" cy="1845" r="11" fill="#5F6972"/>
+    <path d="M762 1839h16v12h-16z" stroke="#F0F4F5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="794" y="1855" font-family="Arial, sans-serif" font-size="28" fill="#475662">2–3 hours</text>
+    <circle cx="939" cy="1685" r="31" fill="#E5E9EC" stroke="#8B949A" stroke-width="6"/>
+  </g>
+
+  <g>
+    <rect x="94" y="1968" width="991" height="467" rx="0" fill="#F4F4F4"/>
+    <g>
+      <rect x="154" y="2108" width="183" height="150" rx="12" fill="transparent"/>
+      <path d="M212 2146H196V2170C196 2181.05 204.95 2190 216 2190H214C225.05 2190 234 2181.05 234 2170V2146H220V2133H212V2146ZM204 2133V2125C204 2114.51 212.51 2106 223 2106H234C244.49 2106 253 2114.51 253 2125V2133H268V2146H253V2170C253 2186.57 240.57 2200 224 2200H222C205.43 2200 193 2186.57 193 2170V2146H177V2133H193V2125C193 2114.51 201.51 2106 212 2106H223V2133H204Z" fill="#2BB6B8"/>
+      <text x="228" y="2238" font-family="Arial, sans-serif" font-size="26" fill="#2BB6B8" font-weight="700">Explore</text>
+      <path d="M181 2245H322" stroke="#43B9BF" stroke-width="4" stroke-linecap="round"/>
+    </g>
+
+    <g>
+      <rect x="443" y="2106" width="260" height="150" rx="12" fill="transparent"/>
+      <path d="M506 2140L522 2140M522 2140L538 2140M522 2140V2166.5M522 2166.5V2192M522 2166.5H546M522 2166.5H498" stroke="#7A8087" stroke-width="10" stroke-linecap="round"/>
+      <text x="520" y="2238" font-family="Arial, sans-serif" font-size="26" fill="#52585F" font-weight="600">My Checklist</text>
+    </g>
+
+    <g>
+      <rect x="738" y="2106" width="235" height="150" rx="12" fill="transparent"/>
+      <path d="M812 2140H866C876.49 2140 885 2148.51 885 2159V2194C885 2204.49 876.49 2213 866 2213H812C801.51 2213 793 2204.49 793 2194V2159C793 2148.51 801.51 2140 812 2140Z" stroke="#7A8087" stroke-width="8" fill="none"/>
+      <path d="M806 2181H874" stroke="#7A8087" stroke-width="8" stroke-linecap="round"/>
+      <path d="M840 2148V2185" stroke="#7A8087" stroke-width="8" stroke-linecap="round"/>
+      <text x="860" y="2238" font-family="Arial, sans-serif" font-size="26" fill="#52585F" font-weight="600">Saved Cities</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="150" y="2055" width="880" height="4" fill="#B9B9B9" opacity="0.25"/>
+  </g>
+</svg>
